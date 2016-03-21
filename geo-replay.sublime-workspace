@@ -1,0 +1,571 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"is_ajax"
+			],
+			[
+				"course",
+				"course_group"
+			],
+			[
+				"entity",
+				"entity_type"
+			],
+			[
+				"bon",
+				"bonus_value	statement"
+			],
+			[
+				"in",
+				"instance_prefix	statement"
+			],
+			[
+				"get",
+				"get_cluster_cpu"
+			],
+			[
+				"cpu_",
+				"cpu_higher"
+			],
+			[
+				"te",
+				"terminate_instance"
+			],
+			[
+				"cpu",
+				"cpu_lower"
+			],
+			[
+				"os_",
+				"os_project_name"
+			],
+			[
+				"os",
+				"os_username"
+			],
+			[
+				"fun",
+				"function_name"
+			],
+			[
+				"func",
+				"function_cache_struct"
+			],
+			[
+				"function",
+				"function_cache"
+			],
+			[
+				"dyn",
+				"dynamic_function"
+			],
+			[
+				"pointer",
+				"pointer_address"
+			],
+			[
+				"dy",
+				"dynamic_return"
+			],
+			[
+				"dynamic",
+				"dynamic_function"
+			],
+			[
+				"dynma",
+				"dynamic_function"
+			],
+			[
+				"colu",
+				"column_value	statement"
+			],
+			[
+				"man",
+				"manually_assign"
+			],
+			[
+				"column_",
+				"column_value	statement"
+			],
+			[
+				"bad",
+				"bad_column_values	statement"
+			],
+			[
+				"colum",
+				"column_values"
+			],
+			[
+				"dro",
+				"dropped_date	statement"
+			],
+			[
+				"all",
+				"all_dropped_students_entities	statement"
+			],
+			[
+				"max",
+				"max_penalty	statement"
+			],
+			[
+				"pen",
+				"penalty_reason	statement"
+			],
+			[
+				"fina",
+				"final_output_list	statement"
+			],
+			[
+				"inpu",
+				"input_file	statement"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"ru",
+				"rubric_staging	statement"
+			],
+			[
+				"raw_",
+				"raw_json	statement"
+			],
+			[
+				"entit",
+				"entity_set"
+			],
+			[
+				"geta",
+				"get_andrew_aws_map	function"
+			],
+			[
+				"cloudr_",
+				"cloud_courses"
+			],
+			[
+				"drop",
+				"drop_in_roster_db	function"
+			],
+			[
+				"enro",
+				"enroll_in_roster_db	function"
+			],
+			[
+				"clo",
+				"cloud_course_group	statement"
+			],
+			[
+				"ta_an",
+				"ta_andrew_id"
+			],
+			[
+				"anrew",
+				"andrew_id	statement"
+			],
+			[
+				"ran",
+				"random_name	function"
+			],
+			[
+				"SERVER",
+				"SERVER_TYPE"
+			],
+			[
+				"valid",
+				"validate_aws_linking	function"
+			],
+			[
+				"Fl",
+				"FlagSubmissionForm	class"
+			],
+			[
+				"task",
+				"task_totals	statement"
+			],
+			[
+				"n",
+				"nickname"
+			],
+			[
+				"submission_",
+				"submission_times	statement"
+			],
+			[
+				"p",
+				"phase	statement"
+			],
+			[
+				"an",
+				"andrew_id"
+			],
+			[
+				"student",
+				"student_andrew_ids	statement"
+			],
+			[
+				"as",
+				"as_staff_coursegroup_set"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "space",
+		"selected_items":
+		[
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"gitg",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"set syntax pytho",
+				"Set Syntax: Python (Django)"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"set sy",
+				"Set Syntax: Python"
+			],
+			[
+				"anacoda",
+				"Anaconda: Vagrant Enable"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/suhailr/Projects/geo-replay"
+	],
+	"file_history":
+	[
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/twitter/views.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/website/models.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/tpz/settings/_base.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/tpz/settings/staging.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/tpz/settings/production.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/student/views.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/api/views.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/scripts/submissions.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/scripts/enroll.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/api/tools.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/student/static/student/js/scoreboard.js",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/staff/static/staff/js/scoreboard.js",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/scripts/staging.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/staff/templates/staff/inside/submissions.html",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/superstaff/urls.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/superstaff/templates/superstaff/inside/edit_submission.html",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/superstaff/views.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/scripts/bonus.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/student/tools.py",
+		"/home/suhailr/Projects/719projects/P1/ASG/openstack_asg_delete.py",
+		"/home/suhailr/Projects/845projects/IP1/blaze_4/Makefile",
+		"/home/suhailr/Projects/845projects/IP1/blaze_3/README",
+		"/home/suhailr/Projects/845projects/IP1/blaze_4/README",
+		"/home/suhailr/Projects/845projects/IP1/proxylab-handout/proxy.c",
+		"/home/suhailr/Projects/845projects/IP1/blaze_4/cache.c",
+		"/home/suhailr/Projects/845projects/IP1/blaze_4/blaze.c",
+		"/home/suhailr/Projects/845projects/IP1/proxylab-handout/cache.h",
+		"/home/suhailr/Projects/845projects/IP1/proxylab-handout/cache.c",
+		"/home/suhailr/Projects/845projects/IP1/blaze_3/blaze.c",
+		"/home/suhailr/Projects/845projects/IP1/blaze_3/cgi-bin/adder.c",
+		"/home/suhailr/Projects/845projects/IP1/blaze_3/cgi-bin/dynamic_cgi.c",
+		"/home/suhailr/Projects/845projects/IP1/blaze_3/Makefile",
+		"/home/suhailr/Projects/845projects/IP1/blaze_3/csapp.c",
+		"/home/suhailr/Projects/845projects/IP1/blaze_2/blaze.c",
+		"/home/suhailr/Projects/845projects/IP1/blaze_0/tiny.c",
+		"/home/suhailr/Projects/845projects/IP1/blaze_1/blaze.c",
+		"/home/suhailr/Projects/845projects/IP1/blaze_2/Makefile",
+		"/home/suhailr/Projects/845projects/IP1/blaze_2/cgi-bin/dynamic_cgi.c",
+		"/home/suhailr/Projects/845projects/IP1/blaze_2/cgi-bin/Makefile",
+		"/home/suhailr/Projects/845projects/IP1/blaze_2/cgi-bin/adder.c",
+		"/home/suhailr/Projects/845projects/IP1/blaze_2/cgi-bin/adder",
+		"/home/suhailr/.config/sublime-text-3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/staff/__init__.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/staff/templates/staff/inside/scoreboard.html",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/staff/urls.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/student/templates/student/inside/twitter_submissions.html",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/student/templates/student/inside/scoreboard.html",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/student/templates/student/inside/gradebook.html",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/api/urls.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/twitter/urls.py",
+		"/home/suhailr/Projects/tpz/theproject.zone/tpz/staff/views.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"/home/suhailr/Projects/tpz/theproject.zone",
+			"/home/suhailr/Projects/tpz/theproject.zone/tpz",
+			"/home/suhailr/Projects/tpz/theproject.zone",
+			"/home/suhailr/Projects/tpz/theproject.zone/tpz/student",
+			"/home/suhailr/Projects/tpz/theproject.zone",
+			"/home/suhailr/Projects/theproject.zone",
+			"/home/suhailr/Projects/theproject.zone/tpz",
+			"/home/suhailr/Projects/theproject.zone",
+			"/home/suhailr/Projects/theproject.zone/tpz",
+			"/home/suhailr/Projects/theproject.zone"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1K9SaGliHwthRgeOi12hUdCUwAPmN",
+			"'",
+			"1K9SaGliHwthRgeOi12hUdCUwAPmN",
+			"def kill",
+			"writeup",
+			"def ",
+			"def scoreboard",
+			"penaltyapplied_set",
+			"penaltyapplied",
+			"edit_submission",
+			"views.edit_submission",
+			"export",
+			"csv",
+			"Grade(",
+			"def Grade",
+			"def Bonus",
+			"bonus_value",
+			"insertAtHead",
+			"detach",
+			"thread",
+			"dbg_printf",
+			"user_agent",
+			" printf(",
+			"AGS_URL",
+			"AGS_URLO",
+			"AGS_URL",
+			"scoreboard",
+			"AGS_URL",
+			"AGS",
+			"submit-619",
+			"api_grade_submit_619",
+			"twitter_submit",
+			"AGS",
+			"CANCER",
+			"Column",
+			"student",
+			"def grade",
+			"form.cleaned_data",
+			"def rubric",
+			"\"",
+			"grade_rubric_option",
+			"rubric",
+			"def rubric(",
+			"def rubric:",
+			"penalty_applied",
+			"user.entity_set.",
+			"Nickname",
+			"start_time",
+			"cost",
+			"Cost",
+			"precision",
+			"FLOAT",
+			"tpz.settings",
+			"django.settings",
+			"not open yet",
+			"Entity.objects.get_or_create",
+			"roster_db",
+			"Entity.objects.get_or_create",
+			"add_student",
+			"User.objects.get_or_create",
+			"@andrew.cmu.edu",
+			"spamreader",
+			"development",
+			"roster",
+			"profile_set",
+			"students",
+			"flag",
+			"manually_assign_column",
+			"def grade",
+			"submissions_by_user",
+			"static",
+			"clone",
+			"submissions",
+			"Submission",
+			"grade"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" dbg_printf(",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 229.0
+	},
+	"pinned_build_system": "",
+	"project": "geo-replay.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 377.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
