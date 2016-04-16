@@ -63,3 +63,6 @@ target/
 
 #GeoLite2 Database
 *.mmdb
+
+#CSV files
+*.csv

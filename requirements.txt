@@ -3,3 +3,4 @@ sphinx
 maxminddb
 dnspython
 ipaddress
+apachelog
