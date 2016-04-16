@@ -79,8 +79,11 @@ def create_urls(logfile, outfile, logformat, grep=None):
                 data = parser.parse(line)
             except apachelog.ApacheLogParserError:
                 continue
-
-            method, url, protocol = data[REQUEST].split()
+            try:
+                method, url, protocol = data[REQUEST].split()
+            except ValueError:
+                #print "Line %d: Unable to split" % i
+                continue
 
             # Check for GET requests with a status of 200
             if method != 'GET' or data[STATUS_CODE] != '200':

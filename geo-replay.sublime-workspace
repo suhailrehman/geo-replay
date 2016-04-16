@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"get",
+				"get_ip	function"
+			],
+			[
+				"aws",
+				"aws_state_dict"
+			],
+			[
+				"ip",
+				"ipaddress_string	param"
+			],
+			[
 				"is",
 				"is_ajax"
 			],
@@ -22,10 +34,6 @@
 			[
 				"in",
 				"instance_prefix	statement"
-			],
-			[
-				"get",
-				"get_cluster_cpu"
 			],
 			[
 				"cpu_",
@@ -215,6 +223,54 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 676,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "requirements.txt",
+			"settings":
+			{
+				"buffer_size": 42,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "logparser/core.py",
+			"settings":
+			{
+				"buffer_size": 144,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "logparser/helpers.py",
+			"settings":
+			{
+				"buffer_size": 1951,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ROADMAP.md",
+			"settings":
+			{
+				"buffer_size": 1613,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 2413,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -223,16 +279,20 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "space",
+		"height": 243.0,
+		"last_filter": "spaces",
 		"selected_items":
 		[
 			[
-				"space",
+				"spaces",
 				"Indentation: Convert to Spaces"
 			],
 			[
-				"spaces",
+				"Markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"space",
 				"Indentation: Convert to Spaces"
 			],
 			[
@@ -301,10 +361,29 @@
 	},
 	"expanded_folders":
 	[
-		"/home/suhailr/Projects/geo-replay"
+		"/home/suhailr/Projects/geo-replay",
+		"/home/suhailr/Projects/geo-replay/config",
+		"/home/suhailr/Projects/geo-replay/config/dbs",
+		"/home/suhailr/Projects/geo-replay/config/dbs/awsmap",
+		"/home/suhailr/Projects/geo-replay/config/dbs/geolite2",
+		"/home/suhailr/Projects/geo-replay/docs",
+		"/home/suhailr/Projects/geo-replay/logparser",
+		"/home/suhailr/Projects/geo-replay/tests"
 	],
 	"file_history":
 	[
+		"/home/suhailr/Projects/geo-replay/config/dbs/awsmap/countries.index",
+		"/home/suhailr/Projects/geo-replay/config/dbs/awsmap/usa.index",
+		"/home/suhailr/Projects/geo-replay/.gitignore",
+		"/home/suhailr/Projects/geo-replay/docs/Makefile",
+		"/home/suhailr/Projects/geo-replay/setup.py",
+		"/home/suhailr/Projects/geo-replay/tests/context.py",
+		"/home/suhailr/Projects/geo-replay/sample/core.py",
+		"/home/suhailr/Projects/geo-replay/sample/helpers.py",
+		"/home/suhailr/Projects/geo-replay/README.md",
+		"/home/suhailr/Projects/geo-replay/ROADMAP.md",
+		"/home/suhailr/Projects/geo-replay/geo-replay.sublime-project",
+		"/home/suhailr/Projects/geo-replay/requirements.txt",
 		"/home/suhailr/Projects/tpz/theproject.zone/tpz/twitter/views.py",
 		"/home/suhailr/Projects/tpz/theproject.zone/tpz/website/models.py",
 		"/home/suhailr/Projects/tpz/theproject.zone/tpz/tpz/settings/_base.py",
@@ -359,7 +438,7 @@
 	],
 	"find":
 	{
-		"height": 31.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -383,6 +462,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"->",
 			"1K9SaGliHwthRgeOi12hUdCUwAPmN",
 			"'",
 			"1K9SaGliHwthRgeOi12hUdCUwAPmN",
@@ -465,6 +545,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"*",
 			" dbg_printf(",
 			"'"
 		],
@@ -477,8 +558,185 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								676,
+								676
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "requirements.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/requirementstxt/requirementstxt.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "logparser/core.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "logparser/helpers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								911,
+								911
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "ROADMAP.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1185,
+								1185
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								907,
+								907
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -499,11 +757,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.594428706327,
 			1.0
 		],
 		"rows":
@@ -525,7 +790,7 @@
 	"project": "geo-replay.sublime-project",
 	"replace":
 	{
-		"height": 58.0
+		"height": 72.0
 	},
 	"save_all_on_build": true,
 	"select_file":
